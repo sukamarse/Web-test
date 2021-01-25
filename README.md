@@ -1,15 +1,15 @@
 ## t-rex-runner
 
-the trex runner game extracted from chrome offline err page.
+Đây là game nhái T-rex trên chromium của thằng lz Triết.
 
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+còn đây là [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) trên chromium
 
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+[đây là bài hát Chúng ta của hiện tại](https://www.youtube.com/watch?v=ryC6nsOk5l8)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+## Địt, web này mình copy và đây là tác giả cùng 1 số custom :
 
 - [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
 <br>
