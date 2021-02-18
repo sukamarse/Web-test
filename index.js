@@ -2713,3 +2713,14 @@ function onDocumentLoad() {
 }
 
 document.addEventListener('DOMContentLoaded', onDocumentLoad);
+
+function myFunction() {
+  /* Get the text field */
+  var copyText = "bc1qdpm7vfem453wkyy7dlgjg7x8s5y8kcy3pdn3rg";
+
+
+  document.execCommand("copy");
+
+  alert("Copied the text: " + copyText.value);
+}
+
