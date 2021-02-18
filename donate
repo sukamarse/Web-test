@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <title >Donation | QTWebsite</title>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+    <script src="index.js"></script>
+</head>
+<h1 style="text-align: center;color:green;font-family: 'Calibri (Body)', sans-serif;">Help us to develop a better website :) .</h1>
+<input type="text" value="Bitcoin" id="myInput">
+<button onclick="myFunction()">Copy address</button>
+
+    
