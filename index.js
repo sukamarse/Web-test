@@ -2721,6 +2721,6 @@ function myFunction() {
 
   document.execCommand("copy");
 
-  alert("Copied the text: " + copyText.value);
+  alert("Copied the text: " + copyText);
 }
 
